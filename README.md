@@ -7,10 +7,10 @@
 
 ## 2. 스터디 구성원
 
-* [**김진우**](https://github.com/kjwspace) : 중앙대학교 기계공학과
-* [**김태윤**](https://github.com/KimTaeYun02) : 중앙대학교 소프트웨어학과
+* [**김진우**](https://github.com/kjwspace) : 중앙대학교 기계공학부
+* [**김태윤**](https://github.com/KimTaeYun02) : 중앙대학교 소프트웨어학부
 * [**오창준**](https://github.com/OCJMS) : 중앙대학교 AI학과
-* [**유상준**](https://github.com/SangjunRyu) : 중앙대학교 전기전자과
+* [**유상준**](https://github.com/SangjunRyu) : 중앙대학교 전기전자공학부
 
 ## 3. 스터디 일정
 
